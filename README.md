@@ -20,4 +20,4 @@ The code was implemented using MATLAB 2016a and can be used run on any other lat
 The code is designed encode the light field images in the JPEG Pleno Database. \
 a) Download the images from: http://plenodb.jpeg.org/lf/epfl . \
 b) Open main.m and set the variable "LFimageName" with the path to the LF image. \
-c) Run the script to encode the image. \
+c) Run the script to encode the image. 

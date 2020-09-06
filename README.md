@@ -13,6 +13,10 @@ Author: Ionut Schiopu (https://goo.gl/dFR95R)\
 University: Vrije Universiteit Brussel (VUB)\
 email: ischiopu@etrovub.be\
 
+# Requirements
+The code was implemented using MATLAB 2016a and can be used run on any other later version.
+
+# How to use the code
 The code is designed encode the light field images in the JPEG Pleno Database.\
 a) Download the images from: http://plenodb.jpeg.org/lf/epfl .\
 b) Open main.m and set the variable "LFimageName" with the path to the LF image.\

@@ -11,7 +11,7 @@ doi: 10.1109/3DTV.2017.8280403. \
 Updated on 06-SEP-2020\
 Author: Ionut Schiopu, https://goo.gl/dFR95R \
 University: Vrije Universiteit Brussel (VUB) \
-email: ischiopu@etrovub.be \
+email: ischiopu@etrovub.be 
 
 # Requirements
 The code was implemented using MATLAB 2016a and can be used run on any other later version.
